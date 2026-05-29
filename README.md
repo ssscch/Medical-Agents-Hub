@@ -23,7 +23,7 @@
 
 🗃️ 课程表
 |  课程Lesson   | 讲义Handout| 视频Video | 扩展学习资料 Extra Learning |
-|  ----  | ----  | ----  |
+|  ----  | ----  | ----  | ----  |
 | 人工智能通识课（0基础版）  | Link | Link | Link |
 | 医疗智能体综述及相关政策分享  | Coming Soon | Coming Soon | Coming Soon |
 | 医疗数据处理及知识库生成方法介绍  | Coming Soon | Coming Soon | Coming Soon |
